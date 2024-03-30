@@ -1,0 +1,59 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.travel-text {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.travel-table {
+  margin: 20px auto;
+}
+
+.travel-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.travel-table th, .travel-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.travel-table th {
+  background-color: #f2f2f2;
+}
+
+.travel-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.reviews-container {
+  margin-top: 40px;
+}
+
+.review {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.review h3 {
+  margin-top: 0;
+}
+
+.review p {
+  margin: 10px 0;
+}
